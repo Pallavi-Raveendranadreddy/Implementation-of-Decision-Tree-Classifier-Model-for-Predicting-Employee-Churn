@@ -62,10 +62,10 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![output](https://github.com/Pallavi-Raveendranadreddy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/314ccc9f8e49a582969e108221f62a42f94dbb44/5a.PNG)
-![output](https://github.com/Pallavi-Raveendranadreddy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/314ccc9f8e49a582969e108221f62a42f94dbb44/5b.PNG)
-![output](https://github.com/Pallavi-Raveendranadreddy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/314ccc9f8e49a582969e108221f62a42f94dbb44/5c.PNG)
-![output](https://github.com/Pallavi-Raveendranadreddy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/314ccc9f8e49a582969e108221f62a42f94dbb44/5d.PNG)
-![output](https://github.com/Pallavi-Raveendranadreddy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/314ccc9f8e49a582969e108221f62a42f94dbb44/5e.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/627ac7c91fdd7bbf35e72c04348309065aefef64/5a.PNG)
+![output]()
+![output]()
+![output]()
+![output]()
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
